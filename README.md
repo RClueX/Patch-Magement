@@ -6,7 +6,7 @@
 ---
 ## Patch Management
 
-Patch management is the ongoing process of updating and maintaining software applications and operating systems with the latest security patches and bug fixes. It's a crucial practice for enhancing system security by addressing vulnerabilities that attackers can exploit.
+Patch management is the ongoing process of updating and maintaining software applications and operating systems with the latest security patches and bug fixes. It's a crucial practice for enhancing security by addressing vulnerabilities that attackers can exploit.
 
 ---
 
