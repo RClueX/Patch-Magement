@@ -19,20 +19,22 @@ The patch management process typically involves eight key stages:
 7. **Documentation:** Documenting the entire patch management process for future reference and audit purposes.
 8. **Adaptation:** Adapting the process based on lessons learned and evolving security threats.
 
+---
+
 **Patch Management Activities**
 
-This section can be further expanded upon if you have specific scripts or tools related to patch management activities (Optional):
+**•	Corrective Actions:**
 
-* Vulnerability Scanning
-* Patch Deployment Automation
+This refers to applying patches that fix vulnerabilities in software. Vulnerabilities are weaknesses that attackers can exploit to gain unauthorized access to systems or data. Patching these vulnerabilities is essential for maintaining a secure IT environment.
 
-**Security Measures**
+**•	Compensatory Controls:**
 
-While patching is essential, a layered security approach is recommended. Here are some proactive security measures to prevent vulnerabilities:
+While patching is ideal, it may not always be immediately possible. Compensative controls are temporary measures put in place to mitigate risks while a permanent fix (patch) is being deployed. These controls can include things like restricting access to vulnerable systems or deploying additional security software.
 
-* **Vulnerability Scanning:** Regularly scan systems for vulnerabilities.
-* **Strong Passwords:** Enforce strong passwords and multi-factor authentication.
-* **Software Updates:** Keep software up-to-date with the latest security patches.
+**•	Security Measures:**
+
+These are proactive steps taken to prevent vulnerabilities from arising in the first place. Security measures include vulnerability scanning, using strong passwords, and keeping software up to date.
+
 
 **Patch Application Timeline**
 
