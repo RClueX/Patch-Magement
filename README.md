@@ -1,10 +1,14 @@
-## Patch Management Guide
+## Patch Management
+---
+---
 
 This repository provides information and resources related to patch management processes.
 
 **What is Patch Management?**
 
 Patch management is the ongoing process of updating and maintaining software applications and operating systems with the latest security patches and bug fixes. It's a crucial practice for enhancing system security by addressing vulnerabilities that attackers can exploit.
+
+---
 
 **Patch Management Process**
 
@@ -27,14 +31,26 @@ The patch management process typically involves eight key stages:
 
 This refers to applying patches that fix vulnerabilities in software. Vulnerabilities are weaknesses that attackers can exploit to gain unauthorized access to systems or data. Patching these vulnerabilities is essential for maintaining a secure IT environment.
 
+---
+
 **•	Compensatory Controls:**
 
 While patching is ideal, it may not always be immediately possible. Compensative controls are temporary measures put in place to mitigate risks while a permanent fix (patch) is being deployed. These controls can include things like restricting access to vulnerable systems or deploying additional security software.
+
+---
 
 **•	Security Measures:**
 
 These are proactive steps taken to prevent vulnerabilities from arising in the first place. Security measures include vulnerability scanning, using strong passwords, and keeping software up to date.
 
+**Key Words**
+
+* Risk Reduction
+* Prioritization of Mitigation
+* RAD 
+* RED 
+
+---
 
 **Patch Application Timeline**
 
@@ -54,12 +70,7 @@ High | Patch within 25-30 days
 Medium | Patch within 60 days
 Low | Patch within 90 days
 
-**Key Terms**
 
-* Risk Reduction
-* Prioritization of Mitigation
-* RAD (Remediate, Analyze, Deploy)
-* RED (Remediate, Educate, Deploy)
 
 **Resources**
 
