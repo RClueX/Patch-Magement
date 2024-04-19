@@ -24,6 +24,8 @@ Patch management is the ongoing process of updating and maintaining software app
 ---
 
 **Vulnerability Management Activities**
+---
+
 
 **•	Corrective Actions:**
 
@@ -56,15 +58,15 @@ The recommended timeline for applying patches can vary depending on the severity
 
 **Banking** | **Timeline**
 ---|---|
-Critical | Patch within 15-20 days
+Critical | Patch within 15 days
 High | Patch within 25-30 days
 Medium | Patch within 45 days
 Low | Patch within 60 days
 
 **Non-Banking** | **Timeline**
 ---|---|
-Critical | Patch within 20-25 days
-High | Patch within 25-30 days
+Critical | Patch within 20 days
+High | Patch within 30 days
 Medium | Patch within 60 days
 Low | Patch within 90 days
 
