@@ -47,8 +47,8 @@ These are proactive steps taken to prevent vulnerabilities from arising in the f
 
 * Risk Reduction
 * Prioritization of Mitigation
-* RAD 
-* RED 
+* RAD (Risk Acceptance Document)
+* RED (Risk Exception)
 
 ---
 
