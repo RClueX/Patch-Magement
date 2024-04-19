@@ -1,7 +1,10 @@
-## Patch Management
----
+![Vulnerability-Management-](https://github.com/RClueX/Patch-Magement/assets/110445358/beb1182f-26e6-4538-957c-9cb8152611e1)
 
-**What is Patch Management?**
+
+
+
+---
+## Patch Management
 
 Patch management is the ongoing process of updating and maintaining software applications and operating systems with the latest security patches and bug fixes. It's a crucial practice for enhancing system security by addressing vulnerabilities that attackers can exploit.
 
