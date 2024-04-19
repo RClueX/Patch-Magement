@@ -23,7 +23,7 @@ Patch management is the ongoing process of updating and maintaining software app
 
 ---
 
-**Patch Management Activities**
+**Vulnerability Management Activities**
 
 **•	Corrective Actions:**
 
