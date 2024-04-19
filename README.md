@@ -1,8 +1,5 @@
 ## Patch Management
 ---
----
-
-This repository provides information and resources related to patch management processes.
 
 **What is Patch Management?**
 
@@ -11,8 +8,6 @@ Patch management is the ongoing process of updating and maintaining software app
 ---
 
 **Patch Management Process**
-
-The patch management process typically involves eight key stages:
 
 1. **Identification:** Identifying vulnerabilities in your systems through vulnerability scanning or vendor notifications.
 2. **Prioritization:** Prioritizing identified vulnerabilities based on their severity and potential impact.
@@ -70,11 +65,5 @@ High | Patch within 25-30 days
 Medium | Patch within 60 days
 Low | Patch within 90 days
 
-
-
-**Resources**
-
-* Consider adding links to helpful external resources related to patch management best practices, tools, or vendor information (Optional).
-
-
-By following these guidelines and best practices, you can establish a robust patch management process to enhance the security of your IT environment.
+---
+---
